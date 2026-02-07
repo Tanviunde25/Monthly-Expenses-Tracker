@@ -18,7 +18,7 @@ This project is implemented using a Jupyter Notebook, making it beginner-friendl
 
 5.Improve personal financial planning
 
-Technologies Used
+- Technologies Used
 
 1.Python
 
@@ -28,7 +28,7 @@ Technologies Used
 
 4.Matplotlib – for data visualization
 
--Features
+- Features
 
 1.Add monthly expense data
 
@@ -40,7 +40,7 @@ Technologies Used
 
 5.Easy to modify and extend
 
--How to Run the Project
+- How to Run the Project
 
 Install Python (3.x) on your system
 
@@ -61,7 +61,7 @@ Monthly_Expenses_Tracker.ipynb
 
 Run the cells one by one
 
--Output
+- Output
 
 Displays total monthly expenses
 
@@ -69,7 +69,7 @@ Shows category-wise expense breakdown
 
 Generates charts for better visualization
 
--Future Enhancements
+- Future Enhancements
 
 Add file storage (CSV/Excel)
 
