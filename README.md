@@ -1,4 +1,4 @@
-- Monthly Expenses Tracker
+Monthly Expenses Tracker
 
 - Project Description
 
@@ -20,13 +20,13 @@ This project is implemented using a Jupyter Notebook, making it beginner-friendl
 
 Technologies Used
 
--Python
+1.Python
 
--Jupyter Notebook
+2.Jupyter Notebook
 
--Pandas – for data handling
+3.Pandas – for data handling
 
--Matplotlib – for data visualization
+4.Matplotlib – for data visualization
 
 -Features
 
