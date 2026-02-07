@@ -24,9 +24,7 @@ This project is implemented using a Jupyter Notebook, making it beginner-friendl
 
 2.Jupyter Notebook
 
-3.Pandas – for data handling
-
-4.Matplotlib – for data visualization
+3.Matplotlib – for data visualization
 
 - Features
 
